@@ -5,8 +5,11 @@
 
 
 1- Setup redux store
+
 -reducers & rootReducer
+
 -actions
+
 -Store
 
 
