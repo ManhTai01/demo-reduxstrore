@@ -1,0 +1,6 @@
+.active{
+    color: blue;
+}
+li{
+    transition: all .35s ease-in-out 0s  ;
+}
